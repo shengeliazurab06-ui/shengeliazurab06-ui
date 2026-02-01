@@ -22,7 +22,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shengeliazurab06-ui&layout=compact&theme=aura)
+![](https://github-readme-activity-graph.vercel.app/graph?username=shengeliazurab06-ui&theme=react-dark)
+
 
 
 
