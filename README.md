@@ -22,7 +22,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shengeliazurab06-ui&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shengeliazurab06-ui&layout=compact&theme=aura)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shengeliazurab06-ui&icon=2&color=3)](https://visitcount.itsvg.in)
